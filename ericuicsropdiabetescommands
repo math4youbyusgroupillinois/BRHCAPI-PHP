@@ -1,3 +1,7 @@
 var populatiop;
 var populationq;
 var ncases;
+$populationp = "";
+$populationq = "";
+$ncases = "";
+$nhousehold = "";
