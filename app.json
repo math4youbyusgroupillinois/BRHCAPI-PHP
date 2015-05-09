@@ -1,0 +1,14 @@
+{
+  "name":"BRHCAPI-PHP",
+  "description":"yellowfit",
+  "scripts":{},
+  "env":{
+    "GITHUB_USERNAME":{
+      "required":true
+    },
+    "OTHER_VAR":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
